@@ -1,4 +1,4 @@
-# CSharpBaseServer
+# C++BaseServer
 [인프런의 Rookis-C++ 게임서버 강의](https://www.inflearn.com/course/%EC%96%B8%EB%A6%AC%EC%96%BC-3d-mmorpg-4/dashboard)를 들으며 만든 C++ Base Server
 
 ## 기간
