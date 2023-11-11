@@ -32,3 +32,5 @@
 *.app
 
 */.vs/
+Server/*/x64/
+Server/*/Debug/
